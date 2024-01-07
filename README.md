@@ -1,2 +1,2 @@
 # kelcihetci
-Game engine written in C
+A game engine written in C
